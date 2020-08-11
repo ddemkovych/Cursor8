@@ -1,5 +1,5 @@
 
-//Bise
+//Basic
 class Student {
     constructor(university, course, fullName){
   this.course = course;
